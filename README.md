@@ -1,4 +1,4 @@
-# Google Search Indexing Script
+# Google Search Indexing Python Script
 
 ## Overview
 
